@@ -1,0 +1,5 @@
+some text
+
+some times use 'git push --set-upstream origin dev' to push when the branch has no upstream branch.To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin dev
